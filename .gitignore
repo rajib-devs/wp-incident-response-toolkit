@@ -1,0 +1,7 @@
+# Reports these scripts generate — never commit real scan output,
+# it can contain site paths, database contents, and other
+# client-specific/sensitive data.
+wpscan-*.txt
+wpdbscan-*.txt
+*.sql
+.my.cnf

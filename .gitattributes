@@ -1,0 +1,3 @@
+# These run on Linux shared hosting — CRLF line endings break bash
+# on the server (this bit the original engagement more than once).
+*.sh text eol=lf
